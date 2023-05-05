@@ -1,2 +1,2 @@
 js: yarn build --watch
-css: yarn build:css
+css: rails dartsass:watch
