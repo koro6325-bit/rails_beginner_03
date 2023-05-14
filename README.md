@@ -41,23 +41,3 @@ bin/rails db:create
 ```
 bin/dev
 ```
-
-### Dockerコンテナの終了
-
-```bash
-docker compose down
-```
-
-### デバッグツールを使うときは
-
-#### railsサーバーを立ち上げているコンテナ名を確認する
-
-```bash
-docker compose ps
-```
-
-#### 該当のコンテナ名をattachする
-
-```bash
-docker attach コンテナ名
-```
