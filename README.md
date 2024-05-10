@@ -6,7 +6,7 @@ $ cd xxxx_xxxx_beginner_rails
 <br /><br />
 
 ## 2.Docker Desktopアプリを立ち上げる
-Docker Deskアプリを立ち上げてください。
+Docker Desktopアプリを立ち上げてください。
 
 ■ Windowsを使用している方
 ディスクトップに表示されている検索欄に「Dokcer Desktop」と打ち込んで、検索結果に表示された項目をクリックしてください。
