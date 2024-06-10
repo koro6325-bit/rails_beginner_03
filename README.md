@@ -70,7 +70,7 @@ docker compose up が実行されているターミナル、docker compose exec 
 <br /><br />
 
 ## 8.ブラウザにて画面が表示されるか確認する
-http://localhost:3000/ にアクセスして、以下の画面が表示されるかを確認してください。
+http://localhost:3000/welcomes にアクセスして、以下の画面が表示されるかを確認してください。
 
 [![Image from Gyazo](https://t.gyazo.com/teams/startup-technology/1de760c38b456f97de809369b3a77e79.png)](https://startup-technology.gyazo.com/1de760c38b456f97de809369b3a77e79)
 
