@@ -41,10 +41,11 @@ $ docker compose run web yarn install
 ## 5.データベースの初期化・マイグレーションファイル適応
 docker compose up が実行されているターミナルとは別のターミナル上で、以下のコマンドを順番に実行してください。
 ```
-$ docker compose exec web rails db:drop
-
 $ docker compose exec web rails db:create
 
+# 以下は課題を取り組んでいる中でデータベースを初期化する必要になった際に実行してください。
+$ docker compose exec web rails db:drop
+$ docker compose exec web rails db:create
 $ docker compose exec web rails db:migrate
 ```
 
