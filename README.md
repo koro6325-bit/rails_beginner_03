@@ -1,6 +1,6 @@
 ## 1.git clone後、cdコマンドを使用してcloneしたディレクトリに移動してください。
 ```
-$ cd xxxx_xxxx_beginner_rails
+$ cd xxxx_xxxx_beginner_rails_first_part
 ```
 
 <br /><br />
