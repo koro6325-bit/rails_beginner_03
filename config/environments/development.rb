@@ -1,7 +1,7 @@
 require "active_support/core_ext/integer/time"
 
 Rails.application.configure do
-  BetterErrors::Middleware.allow_ip! "0.0.0.0/0" if defined?(BetterErrors)
+tterErrors::Middleware.allow_ip! "0.0.0.0/0" if defined?(BetterErrors)  Be
 
   # In the development environment your application's code is reloaded any time
   # it changes. This slows down response time but is perfect for development
